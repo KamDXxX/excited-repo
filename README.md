@@ -1,2 +1,3 @@
 # excited-repo
-New GIT &amp; GITHUB
+Dabbling into the world of tech!
+Feels exciting
